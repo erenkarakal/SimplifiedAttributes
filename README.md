@@ -1,6 +1,6 @@
 # SimplifiedAttributes
 Made an tested with SkBee 2.7.1+  
-You can find attribute names, slot names, value limits, operations (here](https://minecraft.fandom.com/wiki/Attribute)
+You can find attribute names, slot names, value limits, operations [here](https://minecraft.fandom.com/wiki/Attribute)
 
 # Examples
 ## Adding Item Attribute
